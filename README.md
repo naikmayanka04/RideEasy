@@ -1,4 +1,4 @@
-# 🚴 RideEasy - Bike Rental Web Application
+🚴 RideEasy - Bike Rental Web Application
 
 A complete, modern bike rental management system built with HTML, CSS, JavaScript, PHP, and MySQL.
 
@@ -35,9 +35,3 @@ A complete, modern bike rental management system built with HTML, CSS, JavaScrip
 - XAMPP/WAMP/MAMP (PHP 7.4+ and MySQL)
 - Web browser
 - Text editor (optional)
-
-### Step 1: Download & Extract
-```bash
-# Extract the RideEasy folder to your web server directory
-# For XAMPP: C:/xampp/htdocs/
-# For WAMP: C:/wamp64/www/
